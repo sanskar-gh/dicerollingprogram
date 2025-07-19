@@ -1,0 +1,15 @@
+#container {
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+
+input {
+    padding: 10px;
+}
+button {
+    padding: 10px;
+    border-radius: 5px solid #fff;
+
+}
